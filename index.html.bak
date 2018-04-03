@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="190">
+   <polygon points="100,10 40,180 190,60 10,60 160,180"
+   style="fill:red;stroke:blue;stroke-width:3;fill-rule:evenodd;" />
+</svg>
+ 
+=======
 <!doctype html>
 <html>
 <head>
@@ -144,5 +155,6 @@
     }
 
 </script>
+>>>>>>> cd1230efdefbf0f9f5b7403d2e1ef7e3a6254858
 </body>
 </html>
